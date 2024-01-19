@@ -25,10 +25,10 @@ pengguna yang efisien dapat berdampak positif pada pengalaman pelanggan
 
 ### 👨🏻‍💻Anggota Kelompok:
 ----------------
-- 5210311054_Dwi Aldi (Link Github)
-- 5210311061_Lilik Hananto Putro (Link Github)
-- 5210311063_Riyo Fendi Prakosa(Link Github)
-- 5210311116_Riendra Abkar Sukamto (Link Github)
+- 5210311054_Dwi Aldi (https://github.com/dwialdi054)
+- 5210311061_Lilik Hananto Putro (https://github.com/lilikhananto)
+- 5210311063_Riyo Fendi Prakosa(https://github.com/RiyoFP)
+- 5210311116_Riendra Abkar Sukamto (https://github.com/Riendra2)
 
 
 ### ⚙️Teknologi yang dipakai di Website:
