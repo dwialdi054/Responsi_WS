@@ -46,7 +46,7 @@ pengguna yang efisien dapat berdampak positif pada pengalaman pelanggan
 - Argon2
 - CORS
 - Dotenv
-- 
+  
 
 ### 💻Fitur-fitur Website:
 ----------------
@@ -55,7 +55,7 @@ pengguna yang efisien dapat berdampak positif pada pengalaman pelanggan
 2. **Login & Register**: [Pengguna dapat melakukan login dan register, tetapi register disini nanti masuknya sebagai pengguna, dan tampilan pengguna berbeda dengan admin. ]
 3. **Dashboard**: [Pada bagian dashboard terdapat tampilan dimana admin dapat mengetahui informasi jumlah user dan jumlah produk  )]
 4. **Product**: [Menu ini menampilkan produk yang tersedia, selain itu dengan menu ini admin dapat menambah data produk, memperbarui maupun menghapus data]
-5. 
+   
 
 Terimakasih👋
 -----------
