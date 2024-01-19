@@ -2,7 +2,7 @@
 ## KELOMPOK [4]
 
 
-![Template Github README (1)](https://github.com/Dimaspermana293/PROJEK-AKHIR-WSII-KELOMPOK10/assets/97396687/53b8d7e7-38c1-4be6-aefd-7504628fdf79)
+![WhatsApp Image 2024-01-19 at 19 21 24](https://github.com/dwialdi054/Responsi_WS/assets/155798129/7c0c8f6a-87c7-459b-8180-a263ccd888bb)
 
 ### 🌐Tentang Project:
 ----------------
